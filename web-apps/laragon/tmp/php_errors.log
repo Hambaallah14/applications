@@ -1,0 +1,5 @@
+[03-Feb-2025 10:51:17 UTC] PHP Warning:  require(E:\applications\web-apps\laragon\www\apps2\public/../vendor/autoload.php): Failed to open stream: No such file or directory in E:\applications\web-apps\laragon\www\apps2\public\index.php on line 13
+[03-Feb-2025 10:51:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'E:\applications\web-apps\laragon\www\apps2\public/../vendor/autoload.php' (include_path='.;E:/applications/web-apps/laragon/etc/php/pear') in E:\applications\web-apps\laragon\www\apps2\public\index.php:13
+Stack trace:
+#0 {main}
+  thrown in E:\applications\web-apps\laragon\www\apps2\public\index.php on line 13
